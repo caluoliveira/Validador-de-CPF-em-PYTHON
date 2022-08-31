@@ -15,4 +15,4 @@ Por meio desse projeto consegui aprimorar o raciocínio lógico, o uso de condic
 Raciocínio lógico e noções básicas de Phyton.
 
 ## Link do repositório do GitHub:
-https://github.com/caluoliveira/Advinha-o-Dia-da-Semana-em-Python
+https://github.com/caluoliveira/Validador-de-CPF-em-PYTHON
